@@ -8,7 +8,7 @@
 
 ## 本项目意义
 
-历年的愚人节活动对原作的影响重大，例如2015年的Magical Girl Chino，已有众多相关衍生物：香风智乃 魔法少女使Ver. 手办、Kirara Fantastic里的香风智乃的原型。
+历年的愚人节活动对原作的影响重大，例如2015年的Magical Girl Chino，已有众多相关衍生物：香风智乃 魔法少女使Ver. 手办、Kirara Fantasia里的香风智乃的原型。
 
 因此我想保留下来，供大家查看
 
