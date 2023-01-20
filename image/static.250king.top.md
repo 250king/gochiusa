@@ -13,4 +13,4 @@ Join time: 2022-01-08
 | 2019 | √         | [JP](https://static.250king.top/af/2019/) |
 | 2020 | √         | [JP](https://static.250king.top/af/2020/) |
 | 2021 | √         | [JP](https://static.250king.top/af/2021/) |
-| 2011 | √         | [JP](https://static.250king.top/af/2022/) |
+| 2022 | √         | [JP](https://static.250king.top/af/2022/) |
