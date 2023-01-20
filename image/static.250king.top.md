@@ -14,3 +14,5 @@ Join time: 2022-01-08
 | 2020 | √         | [JP](https://static.250king.top/af/2020/) |
 | 2021 | √         | [JP](https://static.250king.top/af/2021/) |
 | 2022 | √         | [JP](https://static.250king.top/af/2022/) |
+
+Note: If you are Chinese user, you can visit [the page](https://static.250king.top/af/) to get faster loading speed.
