@@ -12,4 +12,4 @@ Here are some available image to everyone.
 
 ## Join the list
 
-Please read the [page](https://github.com/250king/gochiusa/blob/master/source/README.md).
+Please read the [page](https://github.com/250king/gochiusa/tree/main/source).
