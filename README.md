@@ -14,4 +14,4 @@
 
 ## 镜像
 
-请参阅[此页面](https://github.com/250king/gochiusa/blob/master/image/README.md)
+请参阅[此页面](https://github.com/250king/gochiusa/blob/main/image/README.md)
