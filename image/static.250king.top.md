@@ -1,6 +1,6 @@
 # static.250king.top
 
-Author: [250king](https://github.com/250king)
+Manager: [250king](https://github.com/250king)
 
 Join time: 2022-01-08
 
