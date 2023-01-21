@@ -1,6 +1,6 @@
 # blog.kiseki.moe
 
-Author: [Kiseki](https://github.com/HYHYatt)
+Manager: [Kiseki](https://github.com/HYHYatt)
 
 Join time: 2022-01-08
 
