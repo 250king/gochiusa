@@ -12,5 +12,5 @@ Join time: 2022-01-08
 | 2018 | ×         |                                           |
 | 2019 | ×         |                                           |
 | 2020 | ×         |                                           |                                                    |
-| 2021 | √         | [JP ZH EN](https://gochiusa.wiki/2021af/) |
-| 2022 | √         | [JP ZH EN](https://gochiusa.wiki/2022af/) |
+| 2021 | √         | [JA ZH EN](https://gochiusa.wiki/2021af/) |
+| 2022 | √         | [JA ZH EN](https://gochiusa.wiki/2022af/) |
