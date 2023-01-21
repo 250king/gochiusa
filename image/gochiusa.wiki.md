@@ -1,6 +1,6 @@
 # gochiusa.wiki
 
-Author: [点兔汉化组](https://space.bilibili.com/488752341)
+Manager: [点兔汉化组](https://space.bilibili.com/488752341)
 
 Join time: 2022-01-08
 
