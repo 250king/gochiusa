@@ -15,3 +15,16 @@
 ## 镜像
 
 请参阅[此页面](https://github.com/250king/gochiusa/blob/main/image/README.md)
+
+## 鸣谢
+
+### 翻译者
+
+<p>
+    <a href="https://space.bilibili.com/16458408">
+        <img src="https://i0.hdslb.com/bfs/face/d38e966b0a38a49f9abe34c145dd0edaeacd6dbe.jpg" referrerpolicy="no-referrer" style="width: 64px; height: 64px; border-radius: 50%">
+    </a>
+    <a href="https://github.com/fangbao8">
+        <img src="https://avatars.githubusercontent.com/u/106850534" style="width: 64px; height: 64px; border-radius: 50%">
+    </a>
+</p>
