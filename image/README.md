@@ -1,6 +1,6 @@
-# Image
+# Mirrors
 
-Here are some available image to everyone.
+Here are some available mirrors to everyone.
 
 ## List
 
