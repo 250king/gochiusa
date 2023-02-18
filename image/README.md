@@ -2,8 +2,6 @@
 
 Here are some available mirrors to everyone.
 
-## List
-
 > The list is ordered by join time.
 
 - [blog.kiseki.moe](https://github.com/250king/gochiusa/blob/main/image/blog.kiseki.moe.md)
